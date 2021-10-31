@@ -1,0 +1,66 @@
+[Sun Oct 31 16:35:51 2021] PHP 8.0.6 Development Server (http://127.0.0.1:8880) started
+[Sun Oct 31 16:36:14 2021] Failed to listen on 127.0.0.1:8880 (reason: Address already in use)
+[Sun Oct 31 16:36:44 2021] PHP 8.0.6 Development Server (http://127.0.0.1:8080) started
+[Sun Oct 31 16:38:05 2021] Failed to listen on 127.0.0.1:8080 (reason: Address already in use)
+[Sun Oct 31 16:38:10 2021] Failed to listen on 127.0.0.1:8080 (reason: Address already in use)
+[Sun Oct 31 16:39:12 2021] PHP 8.0.6 Development Server (http://127.0.0.1:8880) started
+[Sun Oct 31 16:42:25 2021] 127.0.0.1:48716 Accepted
+[Sun Oct 31 16:42:28 2021] 127.0.0.1:48716 [200]: GET /server.php?mo=9068991531&submit=Bomb+Now
+[Sun Oct 31 16:42:28 2021] 127.0.0.1:48716 Closing
+[Sun Oct 31 16:42:28 2021] 127.0.0.1:48720 Accepted
+[Sun Oct 31 16:42:31 2021] 127.0.0.1:48720 [200]: GET /server.php?mo=9068991531&submit=Bomb+Now
+[Sun Oct 31 16:42:31 2021] 127.0.0.1:48720 Closing
+[Sun Oct 31 16:42:31 2021] 127.0.0.1:48726 Accepted
+[Sun Oct 31 16:42:33 2021] 127.0.0.1:48726 [200]: GET /server.php?mo=9068991531&submit=Bomb+Now
+[Sun Oct 31 16:42:33 2021] 127.0.0.1:48726 Closing
+[Sun Oct 31 16:42:33 2021] 127.0.0.1:48732 Accepted
+[Sun Oct 31 16:42:39 2021] 127.0.0.1:48732 [200]: GET /server.php?mo=9068991531&submit=Bomb+Now
+[Sun Oct 31 16:42:39 2021] 127.0.0.1:48732 Closing
+[Sun Oct 31 16:42:39 2021] 127.0.0.1:48736 Accepted
+[Sun Oct 31 16:42:45 2021] 127.0.0.1:48736 [200]: GET /server.php?mo=9068991531&submit=Bomb+Now
+[Sun Oct 31 16:42:45 2021] 127.0.0.1:48736 Closing
+[Sun Oct 31 16:42:45 2021] 127.0.0.1:48740 Accepted
+[Sun Oct 31 16:42:48 2021] 127.0.0.1:48740 [200]: GET /server.php?mo=9068991531&submit=Bomb+Now
+[Sun Oct 31 16:42:48 2021] 127.0.0.1:48740 Closing
+[Sun Oct 31 16:42:48 2021] 127.0.0.1:48744 Accepted
+[Sun Oct 31 16:42:58 2021] 127.0.0.1:48744 [200]: GET /server.php?mo=9068991531&submit=Bomb+Now
+[Sun Oct 31 16:42:58 2021] 127.0.0.1:48744 Closing
+[Sun Oct 31 16:42:58 2021] 127.0.0.1:48750 Accepted
+[Sun Oct 31 16:43:01 2021] 127.0.0.1:48750 [200]: GET /server.php?mo=9068991531&submit=Bomb+Now
+[Sun Oct 31 16:43:01 2021] 127.0.0.1:48750 Closing
+[Sun Oct 31 16:43:01 2021] 127.0.0.1:48754 Accepted
+[Sun Oct 31 16:43:10 2021] 127.0.0.1:48754 [200]: GET /server.php?mo=9068991531&submit=Bomb+Now
+[Sun Oct 31 16:43:10 2021] 127.0.0.1:48754 Closing
+[Sun Oct 31 16:43:10 2021] 127.0.0.1:48758 Accepted
+[Sun Oct 31 16:43:12 2021] 127.0.0.1:48758 [200]: GET /server.php?mo=9068991531&submit=Bomb+Now
+[Sun Oct 31 16:43:12 2021] 127.0.0.1:48758 Closing
+[Sun Oct 31 16:43:12 2021] 127.0.0.1:48762 Accepted
+[Sun Oct 31 16:43:13 2021] 127.0.0.1:48762 [200]: GET /server.php?mo=9068991531&submit=Bomb+Now
+[Sun Oct 31 16:43:13 2021] 127.0.0.1:48762 Closing
+[Sun Oct 31 16:43:14 2021] 127.0.0.1:48766 Accepted
+[Sun Oct 31 16:43:16 2021] 127.0.0.1:48766 [200]: GET /server.php?mo=9068991531&submit=Bomb+Now
+[Sun Oct 31 16:43:16 2021] 127.0.0.1:48766 Closing
+[Sun Oct 31 16:43:16 2021] 127.0.0.1:48770 Accepted
+[Sun Oct 31 16:43:17 2021] 127.0.0.1:48770 [200]: GET /server.php?mo=9068991531&submit=Bomb+Now
+[Sun Oct 31 16:43:17 2021] 127.0.0.1:48770 Closing
+[Sun Oct 31 16:43:17 2021] 127.0.0.1:48774 Accepted
+[Sun Oct 31 16:43:18 2021] 127.0.0.1:48774 [200]: GET /server.php?mo=9068991531&submit=Bomb+Now
+[Sun Oct 31 16:43:18 2021] 127.0.0.1:48774 Closing
+[Sun Oct 31 16:43:18 2021] 127.0.0.1:48778 Accepted
+[Sun Oct 31 16:43:21 2021] 127.0.0.1:48778 [200]: GET /server.php?mo=9068991531&submit=Bomb+Now
+[Sun Oct 31 16:43:21 2021] 127.0.0.1:48778 Closing
+[Sun Oct 31 16:43:21 2021] 127.0.0.1:48786 Accepted
+[Sun Oct 31 16:43:23 2021] 127.0.0.1:48786 [200]: GET /server.php?mo=9068991531&submit=Bomb+Now
+[Sun Oct 31 16:43:23 2021] 127.0.0.1:48786 Closing
+[Sun Oct 31 16:43:23 2021] 127.0.0.1:48790 Accepted
+[Sun Oct 31 16:43:27 2021] 127.0.0.1:48790 [200]: GET /server.php?mo=9068991531&submit=Bomb+Now
+[Sun Oct 31 16:43:27 2021] 127.0.0.1:48790 Closing
+[Sun Oct 31 16:43:27 2021] 127.0.0.1:48806 Accepted
+[Sun Oct 31 16:43:31 2021] 127.0.0.1:48806 [200]: GET /server.php?mo=9068991531&submit=Bomb+Now
+[Sun Oct 31 16:43:31 2021] 127.0.0.1:48806 Closing
+[Sun Oct 31 16:43:31 2021] 127.0.0.1:48814 Accepted
+[Sun Oct 31 16:43:36 2021] 127.0.0.1:48814 [200]: GET /server.php?mo=9068991531&submit=Bomb+Now
+[Sun Oct 31 16:43:36 2021] 127.0.0.1:48814 Closing
+[Sun Oct 31 16:43:36 2021] 127.0.0.1:48826 Accepted
+[Sun Oct 31 16:43:38 2021] 127.0.0.1:48826 [200]: GET /server.php?mo=9068991531&submit=Bomb+Now
+[Sun Oct 31 16:43:38 2021] 127.0.0.1:48826 Closing
